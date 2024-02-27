@@ -10,9 +10,9 @@ td, th {
 	border-radius: 5px;
 }
 
-tr:nth-child(even) td {
+/* tr:nth-child(even) td {
 	background-color: #ffffff;
-}
+} */
 
 tr:nth-child(odd) td {
         background-color: #f2f2f2;
